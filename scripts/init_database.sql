@@ -31,6 +31,7 @@ go
 
 -- create dataWarehouse database 
 create database dataWarehouse ; 
+go
 
 use dataWarehouse  ;
 go
